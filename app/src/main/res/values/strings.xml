@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WordCounter</string>
+    <string name="ask_for_sentence">Give me a sentence and I will tell you how many words are in it</string>
+    <string name="press_button">Submit</string>
+    <string name="response_view"></string>
+
+</resources>
